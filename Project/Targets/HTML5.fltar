@@ -1,0 +1,43 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultTarget
+  Version="2"
+  Comment="MadCap HTML5 Target"
+  Type="WebHelp2"
+  Destinations=""
+  GlossaryTermConversion="marked">
+  <PrintedOutput
+    CollapseMargins="true"
+    GenerateTOCProxy="true"
+    GenerateIndexProxy="true"
+    GenerateGlossaryProxy="true" />
+  <Variables>
+    <Variable
+      Name="Parameternamen/0">Child 2</Variable>
+    <Variable
+      Name="Parameternamen/1028">wqd</Variable>
+    <Variable
+      Name="Parameternamen/1026">dwq</Variable>
+    <Variable
+      Name="Parameternamen/1033">wq dw dwqd</Variable>
+    <Variable
+      Name="Parameternamen/1037">dwqdwqd</Variable>
+    <Variable
+      Name="Parameternamen/1029">wqdqw</Variable>
+    <Variable
+      Name="Parameternamen/1031">dwddwq</Variable>
+    <Variable
+      Name="Parameternamen/1024">dwqd</Variable>
+    <Variable
+      Name="Parameternamen/1077">dwq dwqd qwdd wq</Variable>
+    <Variable
+      Name="Parameternamen/1032">dwqdw dqw dq</Variable>
+    <Variable
+      Name="Parameternamen/165">sqsqs</Variable>
+    <Variable
+      Name="Parameternamen/1797">sqsqsq</Variable>
+    <Variable
+      Name="Parameternamen/1799">sqsqsq</Variable>
+    <Variable
+      Name="Parameternamen/1801">sqsqsqs</Variable>
+  </Variables>
+</CatapultTarget>
